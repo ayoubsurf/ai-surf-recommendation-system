@@ -5,8 +5,8 @@ https://github.com/ayoubsurf/ai-surf-recommendation-system
 
 Building AI course project
 ![Surf AI](https://images.unsplash.com/photo-1507525428034-b723cf961d3e)
-## 🌊 Summary
 
+## 🌊 Summary
 An AI-powered recommendation system that helps tourists find the best surf lessons, surf spots, and surfing schedules in Agadir, Morocco based on weather conditions, surf level, budget, and personal preferences.
 
 ---
