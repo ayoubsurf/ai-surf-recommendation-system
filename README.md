@@ -1,6 +1,6 @@
 # ai-surf-recommendation-system
 Building AI course project
-# AI Tourist Surf Recommendation System
+
 
 Building AI course project
 ![Surf AI](https://images.unsplash.com/photo-1507525428034-b723cf961d3e)
