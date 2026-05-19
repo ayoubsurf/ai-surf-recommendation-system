@@ -3,14 +3,14 @@ Building AI course project
 # AI Tourist Surf Recommendation System
 
 Building AI course project
-
-## Summary
+![Surf AI](https://images.unsplash.com/photo-1507525428034-b723cf961d3e)
+## 🌊 Summary
 
 An AI-powered recommendation system that helps tourists find the best surf lessons, surf spots, and surfing schedules in Agadir, Morocco based on weather conditions, surf level, budget, and personal preferences.
 
 ---
 
-## Background
+## 🚀 Background
 
 Many tourists visiting surf destinations do not know:
 
@@ -27,7 +27,7 @@ Surf tourism is growing worldwide, and AI can help create safer and more persona
 
 ---
 
-## How is it used?
+## 🧠 How is it used?
 
 The user enters information such as:
 
@@ -65,7 +65,7 @@ A beginner tourist visiting Agadir receives recommendations for calm beaches and
 
 ---
 
-## Data sources and AI methods
+## 📊 Data sources and AI methods
 
 Possible data sources include:
 
@@ -86,7 +86,7 @@ The project could later integrate real-time weather and ocean data.
 
 ---
 
-## Challenges
+## ⚠️ Challenges
 
 This project may not always predict ocean conditions perfectly because weather and waves can change quickly.
 
@@ -102,7 +102,7 @@ AI should support human surf instructors, not replace professional judgment.
 
 ---
 
-## What next?
+## 🔮 What next?
 
 Future improvements could include:
 
@@ -117,7 +117,7 @@ The system could expand to other surf destinations around the world.
 
 ---
 
-## Acknowledgments
+## 🙌 Acknowledgments
 
 This project was inspired by:
 
