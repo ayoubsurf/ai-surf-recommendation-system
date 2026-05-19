@@ -1,6 +1,7 @@
 # ai-surf-recommendation-system
 Building AI course project
-
+## 🔗 Project Repository
+https://github.com/ayoubsurf/ai-surf-recommendation-system
 
 Building AI course project
 ![Surf AI](https://images.unsplash.com/photo-1507525428034-b723cf961d3e)
